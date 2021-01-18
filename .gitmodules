@@ -1,9 +1,6 @@
 [submodule "BilloPs-fsource"]
 	path = BilloPs-fsource
 	url = git@github.com:Abhishek1121-tech/BilloPs-fsource.git
-[submodule "BilloPs-bsource"]
-	path = BilloPs-bsource
-	url = git@github.com:Abhishek1121-tech/BilloPs-bsource.git
 [submodule "BilloPs-CI-CD-Pipeline"]
 	path = BilloPs-CI-CD-Pipeline
 	url = git@github.com:Abhishek1121-tech/BilloPs-CI-CD-Pipeline.git
