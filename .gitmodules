@@ -1,3 +1,9 @@
 [submodule "BilloPs-CI-CD-Pipeline"]
 	path = BilloPs-CI-CD-Pipeline
 	url = git@github.com:Abhishek1121-tech/BilloPs-CI-CD-Pipeline.git
+[submodule "BilloPs-Core"]
+	path = BilloPs-Core
+	url = git@github.com:Abhishek1121-tech/BilloPs-Core.git
+[submodule "BilloPs-Procure"]
+	path = BilloPs-Procure
+	url = git@github.com:Abhishek1121-tech/BilloPs-Procure.git
