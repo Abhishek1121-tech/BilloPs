@@ -7,3 +7,12 @@
 [submodule "BilloPs-Procure"]
 	path = BilloPs-Procure
 	url = git@github.com:Abhishek1121-tech/BilloPs-Procure.git
+[submodule "billops-core"]
+	path = billops-core
+	url = https://github.com/Abhishek1121-tech/billops-core.git
+[submodule "billops-procure"]
+	path = billops-procure
+	url = https://github.com/Abhishek1121-tech/billops-procure.git
+[submodule "billops-ci-cd-pipeline"]
+	path = billops-ci-cd-pipeline
+	url = https://github.com/Abhishek1121-tech/billops-ci-cd-pipeline.git
